@@ -1,9 +1,5 @@
 # Tic Tac Toe Subscriber Refactor
 
-**Did you know??**
-
-There's a YouTube video I made about this repository. [You should watch it.]()
-
 ## Quickstart
 
 There are two examples in this repository that show how the `/original` project could be refactored using different libraries and patterns. I suggest reading through them in the following order.
