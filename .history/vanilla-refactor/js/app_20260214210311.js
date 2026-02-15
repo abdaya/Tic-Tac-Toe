@@ -1,7 +1,7 @@
 import Store from "./store.js";
 import View from "./view.js";
 
-//one change to git
+
 // Our players "config" - defines icons, colors, name, etc.
 const players = [
   {

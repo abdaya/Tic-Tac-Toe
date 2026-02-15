@@ -1,9 +1,7 @@
-//one change to git
-
 // This import is only for jsdoc typings and intellisense
 import Store from "./store.js";
 
-
+//one change to git
 export default class View {
   $ = {};
   $$ = {};
