@@ -143,3 +143,5 @@ clearScore.addEventListener("click", () => {
   console.log(playerTwoScore);
   console.log(tieScore);
 });
+
+//Test changes for git 
