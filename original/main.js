@@ -141,5 +141,8 @@ clearScore.addEventListener("click", () => {
   tiePlaceholder.innerText = 0;
   console.log(playerOneScore);
   console.log(playerTwoScore);
-  console.log(tieScore);
+    console.log(tieScore);
+
+    // Test change for git
+    let player = "MASTER";
 });
