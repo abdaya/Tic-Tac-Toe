@@ -145,3 +145,4 @@ clearScore.addEventListener("click", () => {
 });
 
 //Test changes for git 
+// Another change
